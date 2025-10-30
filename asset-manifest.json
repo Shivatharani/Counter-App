@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shivatharani/Counter-App/static/css/main.bfec865f.css",
+    "main.js": "/Shivatharani/Counter-App/static/js/main.6e85f9c3.js",
+    "static/js/453.1a9054b2.chunk.js": "/Shivatharani/Counter-App/static/js/453.1a9054b2.chunk.js",
+    "static/media/logo.svg": "/Shivatharani/Counter-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shivatharani/Counter-App/index.html",
+    "main.bfec865f.css.map": "/Shivatharani/Counter-App/static/css/main.bfec865f.css.map",
+    "main.6e85f9c3.js.map": "/Shivatharani/Counter-App/static/js/main.6e85f9c3.js.map",
+    "453.1a9054b2.chunk.js.map": "/Shivatharani/Counter-App/static/js/453.1a9054b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfec865f.css",
+    "static/js/main.6e85f9c3.js"
+  ]
+}
