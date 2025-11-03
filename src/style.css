@@ -15,3 +15,8 @@ body {
   background-color: hsl(var(--background));
   color: hsl(var(--foreground));
 }
+
+body, html {
+  min-width: 0;
+  overflow-x: hidden;
+}
